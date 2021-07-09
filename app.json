@@ -1,0 +1,11 @@
+{
+    "name": "whatsappbot",
+    "description": "whatsapp-music-bot",
+    "logo": "https://ibb.co/FWVmNFT",
+    "keywords": ["whatsapp", "userbot", "music", "whatsappmusicbot", "bot", "api", "ai"],
+    "repository": "https://github.com/sayuuuu/whatsapp-music-bot",
+    "stack": "container",
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
